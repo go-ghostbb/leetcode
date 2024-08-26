@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Node">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/590 N-ary Tree Postorder Traversal/main.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Stack">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/1249 Minimum Remove to Make Valid Parentheses/main.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TreeNode">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/145 Binary Tree Postorder Traversal/main.go" />
+              <option value="file://$PROJECT_DIR$/94 Binary Tree Inorder Traversal/main.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/1249 Minimum Remove to Make Valid Parentheses/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1712417864346" />
+              <option name="schema">
+                <list>
+                  <option value="Stack" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/145 Binary Tree Postorder Traversal/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1724600823021" />
+              <option name="schema">
+                <list>
+                  <option value="TreeNode" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/264 Ugly Number II/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1724072866008" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/287 Find the Duplicate Number/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1724667113408" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/57 Insert Interval/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710681604367" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/590 N-ary Tree Postorder Traversal/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1724662830821" />
+              <option name="schema">
+                <list>
+                  <option value="Node" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/650 2 Keys Keyboard/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1724075224574" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/94 Binary Tree Inorder Traversal.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1724601665948" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/94 Binary Tree Inorder Traversal/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1724602478663" />
+              <option name="schema">
+                <list>
+                  <option value="TreeNode" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="node" value="Node" />
+        <entry key="stack" value="Stack" />
+        <entry key="tree_node" value="TreeNode" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1724599466587" />
+  </component>
+</project>
