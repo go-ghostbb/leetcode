@@ -6,6 +6,7 @@
         <entry key="Node">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/1514 Path with Maximum Probability/main.go" />
               <option value="file://$PROJECT_DIR$/590 N-ary Tree Postorder Traversal/main.go" />
             </set>
           </value>
@@ -53,6 +54,18 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/1514 Path with Maximum Probability/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1724764674488" />
+              <option name="schema">
+                <list>
+                  <option value="Node" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/264 Ugly Number II/main.go">
           <value>
             <ScannedPath>
@@ -93,13 +106,6 @@
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/94 Binary Tree Inorder Traversal.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1724601665948" />
-            </ScannedPath>
-          </value>
-        </entry>
         <entry key="file://$PROJECT_DIR$/94 Binary Tree Inorder Traversal/main.go">
           <value>
             <ScannedPath>
@@ -121,6 +127,6 @@
         <entry key="tree_node" value="TreeNode" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1724599466587" />
+    <option name="lastTimeChecked" value="1724754331010" />
   </component>
 </project>
