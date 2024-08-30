@@ -3,6 +3,13 @@
   <component name="GoORMHelperCache">
     <option name="schemaMapping">
       <map>
+        <entry key="ListNode">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/2 Add Two Numbers/main.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="Node">
           <value>
             <set>
@@ -30,6 +37,13 @@
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/1 Two Sum/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1725028163650" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/1249 Minimum Remove to Make Valid Parentheses/main.go">
           <value>
             <ScannedPath>
@@ -66,6 +80,18 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/2 Add Two Numbers/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1725028394849" />
+              <option name="schema">
+                <list>
+                  <option value="ListNode" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/264 Ugly Number II/main.go">
           <value>
             <ScannedPath>
@@ -77,6 +103,13 @@
           <value>
             <ScannedPath>
               <option name="lastModified" value="1724667113408" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1725029947723" />
             </ScannedPath>
           </value>
         </entry>
@@ -102,7 +135,7 @@
         <entry key="file://$PROJECT_DIR$/650 2 Keys Keyboard/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1724075224574" />
+              <option name="lastModified" value="1725030720269" />
             </ScannedPath>
           </value>
         </entry>
@@ -122,11 +155,12 @@
     </option>
     <option name="tableStructMapping">
       <map>
+        <entry key="list_node" value="ListNode" />
         <entry key="node" value="Node" />
         <entry key="stack" value="Stack" />
         <entry key="tree_node" value="TreeNode" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1724754331010" />
+    <option name="lastTimeChecked" value="1725028043534" />
   </component>
 </project>
