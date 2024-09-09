@@ -8,6 +8,7 @@
             <set>
               <option value="file://$PROJECT_DIR$/1367 Linked List in Binary Tree/main.go" />
               <option value="file://$PROJECT_DIR$/2 Add Two Numbers/main.go" />
+              <option value="file://$PROJECT_DIR$/2326 Spiral Matrix IV/main.go" />
             </set>
           </value>
         </entry>
@@ -107,6 +108,18 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/2326 Spiral Matrix IV/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1725877638600" />
+              <option name="schema">
+                <list>
+                  <option value="ListNode" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/264 Ugly Number II/main.go">
           <value>
             <ScannedPath>
@@ -176,6 +189,6 @@
         <entry key="tree_node" value="TreeNode" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1725694898020" />
+    <option name="lastTimeChecked" value="1725877261003" />
   </component>
 </project>
